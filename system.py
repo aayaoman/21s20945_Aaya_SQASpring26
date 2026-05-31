@@ -9,6 +9,7 @@ def tourist_system(action, day_type, report_type):
             print("Generate Monthly Report")
         else:
             print("Generate Weekly Report")
+            print("summary report generated")
 
 # Example Usage
 tourist_system("RecordTouristEntry", "Weekend", "")
