@@ -1,5 +1,5 @@
 def tourist_system(action, day_type, report_type):
-    if action == "RecordTouristEntry":
+    if action == "RecordTouristtry":
         if day_type == "Weekend":
             print("Record High Traffic")
         else:
